@@ -1,0 +1,11 @@
+.anim:active .ball-one {
+    left: 150px;
+    transition: left .5s ease-in;
+  }
+  
+  .anim:active .ball-two {
+    left: 450px;
+    transition: .5s ease-in;
+    transition-delay: .5s;
+   
+  }
